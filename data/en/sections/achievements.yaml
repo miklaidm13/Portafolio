@@ -8,8 +8,7 @@ section:
  
 # Tus logros
 achievements:
-- title: Expo Bátiz #Nombre del Logro
-  image: "/images/skills/logro1.jpg" #Imagen
+- title: Expo Bátiz #Nombre del Logro #Imagen
  
   summary: "Primer lugar en la Expo Bátiz" #Descripción corta
 
