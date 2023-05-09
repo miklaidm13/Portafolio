@@ -8,9 +8,16 @@ section:
  
 # Tus logros
 achievements:
-- title: Expo Bátiz #Nombre del Logro #Imagen
+- title: Logro 1 #Nombre del Logro
+  image: /images/sections/achievements/logro1.jpg #Imagen
  
-  summary: "Primer lugar en la Expo Bátiz" #Descripción corta
-
+  summary: Descripción corta. #Descripción corta
+- title: Logro 2 #Nombre del Logro
+  image: /images/achievements/logro2.jpg #Imagen
+  summary: Descripción corta. #Descripción corta
+ 
+- title: Logro 3#Nombre del Logro
+  image: /images/achievements/logro3.jpg #Imagen
+  summary: Descripción corta. #Descripción corta
  
 
