@@ -29,15 +29,15 @@ projects:
   logo: /images/sections/projects/proyecto1.png #Logo del proyecto
   role: Professional 
   timeline: "2022" #Año
-  summary: "Resumen del proyecto" #Descripción del proyecto
-  url: "https://youtu.be/3Cey1PUhGBg" #Link del proyecto
-  tags: ["Professional","Python"] #Etiquetas del proyecto
+  summary: "Se utilizaron técnicas de Machine Learning y Deep Learning para la predicción de si el ojo correpondiente al de la foto pertenece a un hombre o una mujer" #Descripción del proyecto
+  url: "https://colab.research.google.com/drive/1oDO6Z7AW1eCpqBpQ-H8MK6Ced4YlE8w2?usp=sharing" #Link del proyecto
+  tags: ["Professional","Python", "Deep Learning"] #Etiquetas del proyecto
  
 - name: Nombre del proyecto 2
   logo: /images/sections/projects/proyecto2.png #Logo del proyecto
   role: Personal
   timeline: "2022" #Año
   summary: "Resumen del proyecto" #Descripción del proyecto
-  repo: "Link" #Link del repositorio de github del proyecto
-  tags: ["Personal","R","Machine Learning" ] #Etiquetas del proyecto
+  url: "https://colab.research.google.com/drive/1NWSwPl6Pf__gXTDQIzkc5sc8p93eHhdP?usp=sharing" #Link del repositorio de github del proyecto
+  tags: ["Personal","Python", "Stochastics"] #Etiquetas del proyecto
 
