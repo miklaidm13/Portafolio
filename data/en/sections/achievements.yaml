@@ -9,7 +9,7 @@ section:
 # Tus logros
 achievements:
 - title: Expo Bátiz #Nombre del Logro
-  image: /images/sections/achievements/logro1.jpg #Imagen
+  image: /data/en/sections/achievements/logro1.jpg #Imagen
  
   summary: "Primer lugar en la Expo Bátiz" #Descripción corta
 
