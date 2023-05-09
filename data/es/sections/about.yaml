@@ -19,21 +19,21 @@ company:
 resume: "files/es/cv_es.pdf"
  
 # Resumen de ti
-summary: "Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. "
+summary: "Estudiante de Ciencia de Datos con coc "
  
 # Links a redes sociales
 socialLinks:
 - name: Github
   icon: "fab fa-github"
-  url: "https://github.com/NaomiPadillaM"
+  url: "https://github.com/miklaidm13"
  
 - name: Linkedin
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/naomi-padilla-mora-/"
+  url: "https://www.linkedin.com/in/michael-steven-delgado-02956823b//"
  
 - name: Email
   icon: "fas fa-envelope"
-  url: "naomipmora@gmail.com"
+  url: "msd.dsmdelgado@gmail.com"
  
 # Insignias de hard skills y soft skills
 badges:
