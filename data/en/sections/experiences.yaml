@@ -10,20 +10,21 @@ section:
 experiences:
 - company:
     name: Coppel
-    overview: "Unsupervised Learning applied to find the best path for Coppel's deliveries."
+    url: "https://www.coppel.com/"
+    overview: "Unsupervised Learning applied to find the best path for Coppel's deliveries.."
   positions:
-    start: March 2022
-
-
+  - designation: Project
+    start: March 2022 
+    responsibilities:
+    - Design algorithm
  
 - company:
     name: FEMSA
-    url: "link"
-    overview: "Descriptive Analysis to understan the usage of compressors in the making of the Coca-Cola Family's products."
+    url: "https://coca-colafemsa.com/"
+    overview: "Descriptive Analysis to understand the usage ofcompressors in the making of the Coca-Cola Family's products"
   positions:
+  - designation: Puesto
     start: October 2021
-
-
- 
- 
-
+    end: November 2021
+    responsibilities:
+    - Conclusion about the energy spent
