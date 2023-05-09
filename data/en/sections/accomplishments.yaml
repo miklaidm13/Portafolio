@@ -10,19 +10,19 @@ section:
 # Tus cursos
 accomplishments:
  
-- name: "Curso 1" #Nombre del curso
-  timeline: "2022" #Año
+- name: "Machine Learning on Ramp" #Nombre del curso
+  timeline: "2023" #Año
   organization:
-    name: Coursera #Nombre de la organización que da el curso
-    url: "https://es.coursera.org/" #link de la organización
-  courseOverview: "Descripción del curso" #Descripción
-  certificateURL: "Link" #Link del certificado
+    name: Matlab #Nombre de la organización que da el curso
+    url: "https://matlabacademy.mathworks.com/es/mycourses" #link de la organización
+  courseOverview: "Machine Learning en Matlab" #Descripción
+  certificateURL: "https://matlabacademy.mathworks.com/progress/share/certificate.html?id=3406a1c4-2be7-425a-9916-313f439bd8c6&" #Link del certificado
  
-- name: "Curso 2" #Nombre del curso
-  timeline: "2022" #Año
+- name: "Deep Learning on Ramp" #Nombre del curso
+  timeline: "2023" #Año
   organization:
-    name: Coursera #Nombre de la organización que da el curso
-    url: "https://es.coursera.org/" #link de la organización
-  courseOverview: "Descripción del curso" #Descripción
-  certificateURL: "files/kaggle_courses.pdf" #Ruta del certificado
+    name: Matlab #Nombre de la organización que da el curso
+    url: "https://matlabacademy.mathworks.com/es/mycourses" #link de la organización
+  courseOverview: "Deep Learning en Matlab" #Descripción
+  certificateURL: "https://matlabacademy.mathworks.com/progress/share/certificate.html?id=654a24f2-8b1f-441c-bfe7-ccdcd25480ce&" #Ruta del certificado
 
