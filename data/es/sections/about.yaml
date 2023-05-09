@@ -19,7 +19,7 @@ company:
 resume: "files/es/cv_es.pdf"
  
 # Resumen de ti
-summary: "Estudiante de Ciencia de Datos con coc "
+summary: "Estudiante de Ciencia de Datos con conocimiento en Python y R para la analítica de datos, Tableau para la visualización de los mismos, Matlab para simulación. Un gran gusto por las matemáticas."
  
 # Links a redes sociales
 socialLinks:
@@ -49,6 +49,15 @@ badges:
   percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: pink #Color
  
+ - type: soft-skill-indicator
+   name: Proactivity #Nombre de soft skill
+   percentage: 100 #Porcentaje que tienes / tamaño del círculo
+   color: green #Color
+   
+ - type: soft-skill-indicator
+   name: Adaptability #Nombre de soft skill
+   percentage: 100 #Porcentaje que tienes / tamaño del círculo
+   color: red #Color
 # Ejemplo insignia (hard-skill)
 #- type: certification
 #  name: Applied Data Science with Python #Nombre de insignia
