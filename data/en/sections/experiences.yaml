@@ -9,31 +9,21 @@ section:
 # Tus experiencias
 experiences:
 - company:
-    name: Beautiful Patterns
-    url: "https://beautifulpatterns.org/"
-    overview: "Descripción."
+    name: Coppel
+    overview: "Unsupervised Learning applied to find the best path for Coppel's deliveries."
   positions:
   - designation: Social Service
-    start: May 2022 
-    responsibilities:
-    - Responsabilidad 1
-    - Responsabilidad 2
-    - Responsabilidad 3
-    - Responsabilidad 4
+    start: March 2022
+
  
 - company:
     name: Nombre Compañia.
     url: "link"
-    overview: "Descripción."
+    overview: "Descriptive Analysis to understan the usage ofcompressors in the making of the Coca-Cola Family's products."
   positions:
   - designation: Puesto
-    start: Jan 2022 
-    end: Feb 2022 
-    responsibilities:
-    - Responsabilidad 1
-    - Responsabilidad 2
-    - Responsabilidad 3
-    - Responsabilidad 4
+    start: October 2021
+
  
  
 
