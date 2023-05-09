@@ -19,21 +19,21 @@ company:
 resume: "files/cv.pdf"
  
 # Resumen de ti
-summary: "Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. "
- 
+summary: "I have worked in projects with companies such as Coca-Cola FEMSA and Coppel. In order to accomplish the objectives in those projects I applied different mathematical methods and Machine learning techniques. As well, I am capable of using descriptive analysis and understand databases to generate models of the variables that are related to certain diseases."
+
 # Links a redes sociales
 socialLinks:
 - name: Github
   icon: "fab fa-github"
-  url: "https://github.com/NaomiPadillaM"
+  url: "https://github.com/miklaidm13"
  
 - name: Linkedin
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/naomi-padilla-mora-/"
+  url: "https://www.linkedin.com/in/michael-steven-delgado-02956823b/"
  
 - name: Email
   icon: "fas fa-envelope"
-  url: "naomipmora@gmail.com"
+  url: "msd.dsmdelgado@gmail.com"
  
 # Insignias de hard skills y soft skills
 badges:
