@@ -19,13 +19,7 @@ degrees:
     achieved: 96
     outOf: 100
  
- 
-- name: Education
-  id: education
-  template: sections/education.html 
-  enable: true
-  weight: 4
-  showOnNavbar: true
+
  
 
 - name: TECHNICIAN IN MACHINES WITH AUTOMATIC SYSTEMS
