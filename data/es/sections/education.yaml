@@ -16,39 +16,26 @@ degrees:
     url: "Link"
   grade:
     scale: Average Score
-    achieved: 97
+    achieved: 96
     outOf: 100
-  extracurricularActivities:
-  - "Extracurricular 1"
-  - "Extracurricular 2"
-  - "Extracurricular 3"
  
  
-- name: Preparatoria
-  icon: fa-university
-  timeframe: 2017-2020
+- name: Education
+  id: education
+  template: sections/education.html 
+  enable: true
+  weight: 4
+  showOnNavbar: true
+ 
+degrees:
+- name: TECHNICIAN IN MACHINES WITH AUTOMATIC SYSTEMS
+  icon: fa-graduation-cap
+  timeframe: 2016-2019
   institution:
-    name: Prepa Tec campus Estado de México
+    name: Instituto Politécnico Nacional
     url: "Link"
-  grade: 
+  grade:
     scale: Average Score
-    achieved: 92
+    achieved: 90
     outOf: 100
-  takenCourses: 
-    showGrades: false
-    collapseAfter: 4
-    courses:
-    - name: Maths
-      achieved: 9
-      outOf: 10
-    - name: Computer Science
-      achieved: 9
-      outOf: 10
-    - name: Biology Standard Level
-      achieved: 9
-      outOf: 10
-  extracurricularActivities:
-  - "Extracurricular 1"
-  - "Extracurricular 2"
-  - "Extracurricular 3"
  
