@@ -25,19 +25,27 @@ buttons:
  
 # Proyectos
 projects:
-- name: Nombre del proyecto 1
+- name: CNN for Female and Male eyes
   logo: /images/sections/projects/proyecto1.png #Logo del proyecto
   role: Professional 
   timeline: "2022" #Año
-  summary: "Se utilizaron técnicas de Machine Learning y Deep Learning para la predicción de si el ojo correpondiente al de la foto pertenece a un hombre o una mujer" #Descripción del proyecto
+  summary: "Usage of Deep Learning for the prediction of images of Male and Female eyes" #Descripción del proyecto
   url: "https://colab.research.google.com/drive/1oDO6Z7AW1eCpqBpQ-H8MK6Ced4YlE8w2?usp=sharing" #Link del proyecto
   tags: ["Professional","Python", "Deep Learning"] #Etiquetas del proyecto
  
-- name: Nombre del proyecto 2
+- name: Banorte Stochastic Analysis
   logo: /images/sections/projects/proyecto2.png #Logo del proyecto
   role: Personal
   timeline: "2022" #Año
   summary: "Resumen del proyecto" #Descripción del proyecto
   url: "https://colab.research.google.com/drive/1NWSwPl6Pf__gXTDQIzkc5sc8p93eHhdP?usp=sharing" #Link del repositorio de github del proyecto
   tags: ["Personal","Python", "Stochastics"] #Etiquetas del proyecto
+  
+- name: Machine learning Models for Rankings
+  logo: /images/sections/projects/proyecto1.png #Logo del proyecto
+  role: Professional 
+  timeline: "2022" #Año
+  summary: "Machine learning and data exploration to understand the significative variables regarding university rankings" #Descripción del proyecto
+  url: "https://colab.research.google.com/drive/1Vq7B7H2L_hxOh1rAasUoZN7vQAyWr_aC?usp=sharing" #Link del proyecto
+  tags: ["Professional","Python", "Machine Learning"] #Etiquetas del proyecto
 
