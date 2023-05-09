@@ -49,15 +49,7 @@ badges:
   percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: pink #Color
   
- - type: soft-skill-indicator
-   name: Proactivity #Nombre de soft skill
-   percentage: 100 #Porcentaje que tienes / tamaño del círculo
-   color: green #Color
-   
- - type: soft-skill-indicator
-   name: Adaptability #Nombre de soft skill
-   percentage: 100 #Porcentaje que tienes / tamaño del círculo
-   color: red #Color 
+
 # Ejemplo insignia (hard-skill)
 #- type: certification
 #  name: Applied Data Science with Python #Nombre de insignia
